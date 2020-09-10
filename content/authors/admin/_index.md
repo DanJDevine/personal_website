@@ -24,7 +24,6 @@ interests:
 - Public opinion
 - Political trust
 - Policy analysis 
-Other things not beginning with P:
 - International integration
 - Data analysis
 
