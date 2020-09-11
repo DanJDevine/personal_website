@@ -72,6 +72,8 @@ email: ""
 # - Visitors
 ---
 
-I'm a Fellow in Comparative Politics at St Hilda's College, University of Oxford. I work broadly in European and British political behaviour, focusing on public opinion and public policy. I generally use observational and experimental methods but like speaking to people as well. Alongside my academic research I also work as a consultant researcher for think tanks, charities, etc. 
+I'm a Fellow in Comparative Politics at [St Hilda's College](https://www.st-hildas.ox.ac.uk), University of Oxford. I work broadly in European and British political behaviour, focusing on public opinion and public policy. I generally use observational and experimental methods but like speaking to people as well. Alongside my academic research I also work as a consultant researcher for think tanks, charities, etc. 
+
+You can see my research and other work-related things using the menu at the top.
 
 I volunteer for [October Books](https://www.octoberbooks.org) an independent co-op bookshop in Southampton. If you have the money and inclination, order your books through them! 
