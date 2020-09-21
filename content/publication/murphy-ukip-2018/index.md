@@ -1,4 +1,3 @@
-
 ---
 title: "Does Media Coverage Drive Public Support for UKIP or Does Public Support for UKIP Drive Media Coverage?"
 date: 2018-10-01
