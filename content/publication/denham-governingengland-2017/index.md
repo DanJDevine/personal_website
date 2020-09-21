@@ -1,6 +1,6 @@
 ---
 title: "English Identity and the Governance of England"
-date: 2020-09-01
+date: 2017-01-01
 authors: ["John Denham", "Daniel Devine"]
 publication_types: ["4"]
 featured: false
