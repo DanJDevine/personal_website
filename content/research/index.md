@@ -32,8 +32,8 @@ In the context of [TrustGov](https://trustgov.net), an ESRC large-grant project,
 
 How do voters make decisions and what influences those decisions? What role does context play?
 
-**1.** How does the media environment influence voting behaviour?
-**2.** How does international integration influence voting?
+1. How does the media environment influence voting behaviour?
+2. How does international integration influence voting?
 
 ## Elite governance
 
