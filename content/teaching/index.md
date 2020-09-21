@@ -22,14 +22,14 @@ I'm currently teaching *Practice of Politics* and *Political Sociology* to PPE a
 
 ## Previous years
 
-# Tutorials
+### Tutorials
 
 I have taught seminars in global governance, comparative politics, and introduction to politics to undergraduates at all levels at the *University of Southampton*. 
 
-# Lectures
+### Lectures
 
 I have co-convened and lectured on a second/third year undergraduate module in *Political Behaviour* at the University of Southampton, and also given lectures on (quantitative) research design to students preparing their dissertations.
 
-# Workshops
+### Workshops
 
 Workshops are probably the best way to learn methods and I have delivered these academically and externally, such as at the *Open Society European Policy Institute* and *Institute for Government*. 
