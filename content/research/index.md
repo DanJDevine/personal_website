@@ -16,6 +16,8 @@ header:
 
 I’m primarily interested in public opinion and political attitudes, how these are formed and expressed, and their causes and consequences. I focus on political trust and similar attitudes (like democratic satisfaction). Some of the longer-term ongoing projects are described here.
 
+-------------------------------------
+
 ## Political trust
 
 In the context of [TrustGov](https://trustgov.net), an ESRC large-grant project, and on the back of my PhD, I’m working on a number of broad areas in political trust. I’m primarily working on experiments and causality in trust research.
