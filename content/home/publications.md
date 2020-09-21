@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+[Filter the publications]({{< ref "/publication/_index.md" >}}) by type
 {{% /alert %}}
