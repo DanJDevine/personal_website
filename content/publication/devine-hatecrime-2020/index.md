@@ -1,3 +1,4 @@
+---
 title: "Discrete Events and Hate Crimes: The Causal Role of the Brexit Referendum"
 date: 2020-19-10
 authors: ["Daniel Devine"]
