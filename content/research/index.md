@@ -20,7 +20,7 @@ I’m primarily interested in public opinion and political attitudes, how these 
 
 ## Political trust
 
-I'm working broadly on trust in politics and political institutions, on the back of my PhD and alongside TrustGov](https://trustgov.net). I’m primarily working on experiments and causality in trust research.
+I'm working broadly on trust in politics and political institutions, on the back of my PhD and alongside [TrustGov](https://trustgov.net). I’m primarily working on experiments and causality in trust research.
 
 1. What are the causal consequences and determinants of political trust? How can we determine them?
 2. How do people make and reason about trust judgements?
