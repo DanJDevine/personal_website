@@ -14,13 +14,13 @@ header:
   image: ""
 ---
 
-I’m primarily interested in public opinion and political attitudes, how these are formed and expressed, and their causes and consequences. I focus on political trust and similar attitudes (like democratic satisfaction). Some of the longer-term ongoing projects are described here.
+I’m primarily interested in public opinion and political attitudes, how these are formed and expressed, and their causes and consequences. I focus on political trust and similar attitudes (like democratic satisfaction). Some of the longer-term ongoing projects are described here, and their outputs/working papers are under 'Publications'. 
 
 -------------------------------------
 
 ## Political trust
 
-In the context of [TrustGov](https://trustgov.net), an ESRC large-grant project, and on the back of my PhD, I’m working on a number of broad areas in political trust. I’m primarily working on experiments and causality in trust research.
+I'm working broadly on trust in politics and political institutions, on the back of my PhD and alongside TrustGov](https://trustgov.net). I’m primarily working on experiments and causality in trust research.
 
 1. What are the causal consequences and determinants of political trust? How can we determine them?
 2. How do people make and reason about trust judgements?
@@ -35,7 +35,12 @@ How do voters make decisions and what influences those decisions? What role does
 1. How does the media environment influence voting behaviour?
 2. How does international integration influence voting?
 
+## International integration
+
+Although this is also under the first two topics, I'm also working more broadly on how international integration impacts mass politics. This was the topic of my PhD, and I have a few areas of interest in this too, relating to party politics and political attitudes. 
+
 ## Elite governance
 
 I'm interested in governance as well. I've mostly done this non-academically with the [Institute for Government's Minister's Reflect](https://www.instituteforgovernment.org.uk/our-work/professional-development/ministers-reflect), which is an archive of interviews with former ministers. See for instance ['Becoming Secretary of State'](https://www.instituteforgovernment.org.uk/sites/default/files/publications/becoming-secretary-of-state-final.pdf), which describes in ministers' own words what happens when becoming SoS and advice to do it well. 
+
 
