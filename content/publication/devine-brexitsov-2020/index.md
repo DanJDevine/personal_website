@@ -1,4 +1,3 @@
-
 ---
 title: "Decision-making autonomy and political trust: Experimental evidence from ‘Brexit’ and the 2019 UK General Election campaign"
 date: 2021-05-01
