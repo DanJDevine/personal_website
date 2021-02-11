@@ -7,5 +7,5 @@ abstract: "Do concerns over levels of sovereignty - defined as autonomous decisi
 featured: false
 publication: "*Unpublished Manuscript*"
 doi: ""
-url_pdf: https://www.dropbox.com/s/250gnnia5glqzl4/brexit_sov_paper.pdf?dl=0
+url_pdf: https://osf.io/wpsdj/
 ---
