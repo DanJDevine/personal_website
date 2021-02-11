@@ -14,13 +14,13 @@ header:
   image: ""
 ---
 
-I’m primarily interested in public opinion and political attitudes, how these are formed and expressed, and their causes and consequences. I focus on political trust and similar attitudes (like democratic satisfaction). Some of the longer-term ongoing projects are described here, and their outputs/working papers are under 'Publications'. 
+I’m primarily interested in public opinion and political attitudes, how these are formed and expressed, and their causes and consequences. I focus on political trust and similar attitudes (like democratic satisfaction). Some of the longer-term ongoing projects are described here, and the publications are predictably under 'Publications'. 
 
 -------------------------------------
 
 ## Political trust
 
-I'm working broadly on trust in politics and political institutions, on the back of my PhD and alongside [TrustGov](https://trustgov.net). I’m primarily working on experiments and causality in trust research.
+I’m primarily working on experiments and causality in trust research, with a more specific focus on the consequences of trust. There's some details on [Twitter here](https://twitter.com/DanJDevine/status/1359554155703119875) about trust and redistribution preferences.
 
 1. What are the causal consequences and determinants of political trust? How can we determine them?
 2. How do people make and reason about trust judgements?
@@ -37,10 +37,14 @@ How do voters make decisions and what influences those decisions? What role does
 
 ## International integration
 
-Although this is also under the first two topics, I'm also working more broadly on how international integration impacts mass politics. This was the topic of my PhD, and I have a few areas of interest in this too, relating to party politics and political attitudes. 
+Although this is also under the first two topics, I'm also working more broadly on how international integration impacts mass politics. This was the topic of my PhD, and I have a few areas of interest in this too, relating to party politics and political attitudes. The exciting aspect of this is the use of quasi-experimental designs - usually interruptions of survey fieldwork. I have a few ongoing projects asking for instance:
 
-## Elite governance
+1. What types of interventions and by which actors influence political attitudes?
+2. Through which mechanisms do these interventions affect attitudes? 
+3. How does European integration affect party systems and representation?
 
-I'm interested in governance as well. I've mostly done this non-academically with the [Institute for Government's Minister's Reflect](https://www.instituteforgovernment.org.uk/our-work/professional-development/ministers-reflect), which is an archive of interviews with former ministers. See for instance ['Becoming Secretary of State'](https://www.instituteforgovernment.org.uk/sites/default/files/publications/becoming-secretary-of-state-final.pdf), which describes in ministers' own words what happens when becoming SoS and advice to do it well. 
+## Governance
+
+I'm interested in governance as well. I've mostly done this non-academically with the [Institute for Government's Minister's Reflect](https://www.instituteforgovernment.org.uk/our-work/professional-development/ministers-reflect), which is an archive of interviews with former ministers. See for instance ['Becoming Secretary of State'](https://www.instituteforgovernment.org.uk/sites/default/files/publications/becoming-secretary-of-state-final.pdf), which describes in ministers' own words what happens when becoming SoS and advice to do it well. Most recently I have worked on designing a new electoral single transferable vote electoral system for local elections in Wales. 
 
 
