@@ -1,7 +1,7 @@
 ---
-title: "English Identity and the Governance of England"
-date: 2017-01-01
-authors: ["John Denham", "Daniel Devine"]
+title: "Implementation of a Single Transferable Vote system for local elections in Wales"
+date: 2021-03-03
+authors: ["Daniel Devine", "Jac Larner", "Stuart Turnbull-Dugarte", "Will Jennings"]
 publication_types: ["4"]
 featured: false
 publication: "*Welsh Government, GSR report number 13/2021*"
