@@ -1,6 +1,6 @@
 ---
 title: "What satisfaction with democracy? A global analysis of “satisfaction with democracy” measures"
-date: 2021-12-03
+date: 2021-03-12
 authors: ["Viktor Valgardsson", "Daniel Devine"]
 publication_types: ["2"]
 featured: false
