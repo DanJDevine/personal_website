@@ -7,7 +7,7 @@ abstract: "There has been praise of how female leaders have handled the Coronavi
 featured: false
 publication: "*Journal of Elections, Public Opinion and Parties*"
 doi: ""
-url_pdf: 
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/17457289.2021.1924737
 ---
 
 
